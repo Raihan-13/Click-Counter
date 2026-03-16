@@ -1,0 +1,16 @@
+body{
+    text-align: center;
+    font-size: 2rem;
+}
+h1{
+    margin:50px 50px;
+}
+#color{
+    color: teal;
+}
+button{
+    margin-top: 30px;
+    padding: 5px 32px;
+    font-size: 2rem;
+    cursor: pointer;
+}
